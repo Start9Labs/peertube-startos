@@ -4,8 +4,7 @@ PeerTube publishes every channel and video under its primary URL, and other inst
 
 ## Documentation
 
-- [PeerTube admin guide](https://docs.joinpeertube.org/admin/*) — configuration, moderation, following other instances, plugins and themes.
-- [PeerTube user guide](https://docs.joinpeertube.org/use/*) — accounts, channels, uploading, live streaming and playlists.
+- [PeerTube documentation](https://docs.joinpeertube.org/) — the admin guide (configuration, moderation, following other instances, plugins and themes) and the user guide (accounts, channels, uploading, live streaming and playlists).
 
 ## What you get on StartOS
 
